@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Engagement vindicated &amp; explained, or The reasons upon which Leiut. [sic] Col. John Lilburne, tooke the Engagement. Published by a well-wisher to the present authority, on purpose to satisfie scrupulous minds in the lawfulnesse of taking the said Engagement. January 22. 1650. Licensed according to order, and entered into the register book at Stationers Hall.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88179</idno>
+            <idno type="STC">Wing L2101</idno>
+            <idno type="STC">Thomason E590_4</idno>
+            <idno type="STC">ESTC R202793</idno>
+            <idno type="EEBO-CITATION">99862969</idno>
+            <idno type="PROQUEST">99862969</idno>
+            <idno type="VID">165517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165517)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E590[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Engagement vindicated &amp; explained, or The reasons upon which Leiut. [sic] Col. John Lilburne, tooke the Engagement. Published by a well-wisher to the present authority, on purpose to satisfie scrupulous minds in the lawfulnesse of taking the said Engagement. January 22. 1650. Licensed according to order, and entered into the register book at Stationers Hall.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Clowes, and are to be sold at the Blew-Anchor in Corne-hill, and at the Black Spread-Eagle, at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Lilburne.</note>
+                  <note>Annotations on Thomason copy: "Jan. 23 1649", the 50 in licensing and imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Great Britain --  17th century.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165517:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>THE ENGAGEMENT Vindicated &amp; Explained, OR THE REASONS Upon which Leiut. Col. John Lilburne, tooke the Engagement.</p>
+            <p>
+               <hi>Publiſhed by a Well-wiſher to the preſent Authority, on pur<g ref="char:EOLhyphen"/>poſe to ſatisfie ſcrupulous minds in the lawfulneſſe of taking the ſaid Engagement.</hi>
+            </p>
+            <p>
+               <hi>January</hi> 22. 1650.</p>
+            <p>Licenſed according to Order, and entered into the Regiſter Book at <hi>Stationers Hall.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Clowes,</hi> and are to be ſold at the <hi>Blew-Anchor</hi> in <hi>Corne-hill,</hi> and at the <hi>Black Spread-Eagle,</hi> at the Weſt end of <hi>Pauls.</hi> 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165517:2"/>
+            <!-- PDF PAGE 42 -->
+            <head>The Publiſher to the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>UNderſtanding that this following Epi<g ref="char:EOLhyphen"/>ſtle was pened hy Mr. <hi>Lilburne,</hi> to be ſent to Alderman <hi>Tichburn</hi> the ſpeedy ejecti<g ref="char:EOLhyphen"/>on of whom out of the Office of a Common-Counſel-man, by the means of the ſaid Alder<g ref="char:EOLhyphen"/>man prevented it ſeemeth, the ſeeing of it; but a Copy of it accidentally coming to my hand, J thought good for the publick benefit, to preſent it to the publike view; that ſo Scrupulous minds may receive ſatisfaction by it, to take the ſaid Engagement.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165517:2"/>
+            <!-- PDF PAGE 42 -->
+            <head>CERTAINE REASONS Wherefore Lieut. Col. <hi>JOHN LILB<g ref="char:V">Ʋ</g>RNE</hi> tooke the preſent <hi>ENGAGEMENT.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Eing a Freeman of <hi>London</hi> of about tenne yeares ſtanding, and having for ſome time Reſolved, upon <hi>Fryday</hi> laſt of late to live within the City; in order to which, I real<g ref="char:EOLhyphen"/>ly took ſuch a lodging as by the poſſeſſi<g ref="char:EOLhyphen"/>on of which (till I can get one more con<g ref="char:EOLhyphen"/>venient for my family) as both in the Eye of Law, Rea<g ref="char:EOLhyphen"/>ſon and Cuſtome, may intitle and denominate me, to be an Inhabitant in that Ward; where, and for which at preſent, you are particularly Alderman; and having eat<g ref="char:EOLhyphen"/>en, and drank, and lodged in my new habitation, I was upon <hi>Fryday</hi> morning laſt by your publique Beadle, war<g ref="char:EOLhyphen"/>ned as an Inhabitant of your Ward, to be at <hi>Blew-coats</hi> Hall in <hi>Chriſts</hi> Church at the Ward-mote; where by the affection of diverſe Inhabitants, I was put in nominati<g ref="char:EOLhyphen"/>on for the year enſuing to be one of their <hi>Common Coun<g ref="char:EOLhyphen"/>ſell;</hi> and when the queſtion was put for me according to your cuſtome, I withdrew, and afterwards found, that my election by majority of hands was clear, with<g ref="char:EOLhyphen"/>out all manner of diſpute; whereupon according to the Act you tendered me the <hi>New Engagement</hi> in theſe words, <hi>I doe Declare and promiſe, that I will be true and faithfull to
+<pb n="2" facs="tcp:165517:3"/>
+                  <!-- PDF PAGE 43 -->
+the Common-wealth of</hi> England, <hi>as the ſame is now eſtabliſh<g ref="char:EOLhyphen"/>ed, without a King or Houſe of Lords.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> You may pleaſe to remember that I told you, I could eaſily and freely ſubſcribe it, provided, in regard I had for<g ref="char:EOLhyphen"/>merly been very ſcrupulous, in taking any <hi>Engagements</hi> at all made by the <hi>Parliament,</hi> and had formerly very much oppoſed their <hi>Engagements</hi> and <hi>Covenants;</hi> and therefore to avoid that ſcandal that might redound to my reputation, by ſigning <hi>the preſent Engagement,</hi> without declaring be<g ref="char:EOLhyphen"/>fore all the people there preſent, the grounds of my ſo do<g ref="char:EOLhyphen"/>ing; and therefore I intreated you to let me ſpeak a few words to them, promiſing you to be very faire and mode<g ref="char:EOLhyphen"/>rate; but you anſwered me, it was not the buſineſs of the day; but the people crying out, heare him, hear him, you were pleaſed to let me go on a little; but being not well pleaſed with what I ſaid, you finally ſtopt me, whereupon I was neceſſitated to tell you, that ſeeing you would not let me ſpeak my mind, I muſt be neceſſitated to write it to you, which thus followeth.</p>
+            <p>
+               <hi>Sir,</hi> I am an <hi>Engliſhman</hi> by Birth &amp; Breeding, &amp; therefore have inherent in me an affection, an obligation or tye of reſpect unto it the Land of my nativity; but by ſigning this <hi>Engagement,</hi> I become ſolemnly and ſeriouſly ingaged and bound by a ſpeciall tye, to performe that which before was a duty at large, or at randome upon me; for by the <hi>Common-wealth</hi> of <hi>England</hi> in the <hi>Engagement</hi> mentioned, I can un<g ref="char:EOLhyphen"/>derſtand nothing elſe to be meant, but one of theſe two things, or elſe both of them conjoyned.</p>
+            <p>Firſt, By the <hi>Common-wealth</hi> I underſtand all the good &amp; legall People of <hi>England</hi> to be meant. And this I do con<g ref="char:EOLhyphen"/>ceive the rather, becauſe the <hi>Engagement-makers</hi> have voted &amp; declared them to be the Soveraign or true Fountain of all juſt power amongſt men, and to them by <hi>Gods</hi> Aſſiſt<g ref="char:EOLhyphen"/>ance I will be true and faithfull. Or ſecondly, By the <hi>Com<g ref="char:EOLhyphen"/>mon-wealth</hi> of <hi>England</hi> I underſtand the eſſentiall and fun<g ref="char:EOLhyphen"/>damental
+<pb n="3" facs="tcp:165517:3"/>
+               <!-- PDF PAGE 43 -->
+Government of <hi>England, as it is now eſtabliſhed,</hi> which I conceive principally to conſiſt in 3. particulars. The firſt of which is annuall and ſucceſſive <hi>Parliaments,</hi> which is the Peoples eſſential right to in joy, as is declared by 3. ſeverall Acts of <hi>Parliament,</hi> now in force and unre<g ref="char:EOLhyphen"/>pealed, <hi>viz.</hi> 4. <hi>Eliz. chap.</hi> 14. <hi>and</hi> 36. <hi>Eliz. chap.</hi> 10. Both which are confirmed by the Act of the 16. of the late <hi>King,</hi> intituled, <hi>an Act for the preventing of inconveniences, hap<g ref="char:EOLhyphen"/>pening by the long intermiſſion of Parliaments;</hi> which Acts are ſtrongly backt to be the Peoples undubitable Right, by ſeverall <hi>Parliament-Declarations:</hi> as particularly the <hi>Par<g ref="char:EOLhyphen"/>liaments</hi> grand and firſt <hi>Remonſtrance</hi> of the 15. of <hi>Decemb.</hi> 1641. 1 <hi>part. book decler. pag.</hi> 17. and there declared, of the 2. of <hi>Novemb.</hi> 1642. 1 <hi>part. book declar. pag.</hi> 702. 709. See alſo the 4. <hi>part. Cooks inſtit. fol.</hi> 9. 11. 42. publiſhed by the <hi>Parliament;</hi> yea and in the Charge againſt the late <hi>King,</hi> in the firſt branch thereof: the ſaid frequent and ſuc<g ref="char:EOLhyphen"/>ceſſive Parliaments is owned and declared to be the foun<g ref="char:EOLhyphen"/>dation of the Government of this Nation, and of all the peoples Liberties, the violation of which is agravated to the <hi>King</hi> againſt him, by his proſecuter Mr. <hi>John Cook,</hi> in his caſe ſtated pag. 7. 11. 14. 17. 18. 20. And alſo by the Preſi<g ref="char:EOLhyphen"/>dent of the <hi>High Court of Juſtice,</hi> in his laſt Speech againſt the <hi>King,</hi> the 27. of <hi>Jan.</hi> 1648. pag. 11. And in the very beginning of both the Acts of Treaſon, upon which I my ſelf was lately Arraigned, which bears date the 14. of <hi>May</hi> and the 17. of <hi>July</hi> 1648, the ſubſtance of all fore-going is confirmed; for it is there declared, that the people ſhall for the future be governed by its own <hi>Repreſentatives,</hi> or Na<g ref="char:EOLhyphen"/>tionall meetings in Counſel, choſen and intruſted by them for that purpoſe; ſo that annuall &amp; ſucceſſive <hi>Parliaments</hi> or <hi>Repreſentatives</hi> is fully owned, and Declared to be the prime, or chief foundation of the Government of this Na<g ref="char:EOLhyphen"/>tion, unto which by the ſtrength of God I will be true.</p>
+            <p>The ſecond main eſſentiall of the Government of this
+<pb n="4" facs="tcp:165517:4"/>
+               <!-- PDF PAGE 44 -->
+Nation, is Tryall by Juries of good and Legall men of the Neighbourhood; which manner of Tryall, being far more ancient then the conqueſt, I Love and Honour, and by Gods blesſing will be true to it.</p>
+            <p>The third main eſenciall of the Government of this Na<g ref="char:EOLhyphen"/>tion is, that no man ſhall be diſpoſſed of his life, limb, liberty or eſtate, but by due proceſſe of Law; as it is more at large (with that juſt and equitable Tryall by Juries) contained in the <hi>ch.</hi> 29. of <hi>Magna Charta</hi> and the <hi>Petition of Right;</hi> both of which, are every branch of them fully confirmed by the Act that aboliſheth the <hi>Star-Chamber,</hi> and the Act that nuls <hi>Ship-mony,</hi> both of them made in the 17. of the late King; all of which are backt with two ſeverall late Declarations dated the 9. of <hi>February,</hi> and the 17. of <hi>March</hi> 1648. In both which, it is fully and perti<g ref="char:EOLhyphen"/>cularly declared, that the fore-mentioned things, and the prime eſenciall and principall foundations of the Govern<g ref="char:EOLhyphen"/>ment of this Nation; which good old Lawes &amp; Cuſtomes they (there) call the badges of our freedom, the benefit of which our Anceſtors (ſay they) enjoyed before the Con<g ref="char:EOLhyphen"/>queſt or <hi>Norman</hi>-ſlavery, and ſpent much of their blood, to have conformed by the Great <hi>Charter</hi> of the Liberties of <hi>England,</hi> and other exelent Lawes which have continued in all former changes, and being duly executed, are the moſt juſt, free and equall of any other Lawes in the World, and they there ſpend many Arguments, to illuſt<g ref="char:EOLhyphen"/>riate the equitableneſſe, juſtneſſe and excilency of them, and alſo there ſolemnly Declare, that really and in good earneſt they will maintaine, preſerve, keep and uphold the ſaid fundamentall Laws of this Nation, for &amp; concerning the preſervation of the lives, properties &amp; Liberties of the People, with all things incident, appertaining and belong<g ref="char:EOLhyphen"/>ing thereunto; as they are laid down in that excelent Law of <hi>the Petition of Right,</hi> as they themſelves there call it; unto al which, by the aſſiſtance of the Almighty, I wil be true to.</p>
+            <p>
+               <pb facs="tcp:165517:4"/>
+               <!-- PDF PAGE 44 -->Now, having affirmatively Declared what I conceive by the Common-Wealth of <hi>England,</hi> I am neceſſitated in the ſecond place in the Negative to Declare, that by the Com<g ref="char:EOLhyphen"/>mon-Wealth of <hi>England,</hi> I do not in the leaſt vnderſtand it to be meant abſtract, or individually of the preſent <hi>Parl.</hi> Counſel of STATE or Councel of the ARMY, or all of them conjoyned, my Reaſons are; Firſt, Becauſe the Mem<g ref="char:EOLhyphen"/>bers of the 3. ſaid Counſells take it as well as any others, and therefore it is not abſtract to themſelves that they take the <hi>Engagement</hi> to be true to; for it is incongruous in rea<g ref="char:EOLhyphen"/>ſon, for a man to take an <hi>Engagement</hi> to be true to himſelf, becauſe there is inherent in him, an inbred tye or bond which is one with him, that tyes and bindes him in a more nigher relation to be true to himſelf then al outward and viſible <hi>Engagements</hi> can compell him to be, and to tender a man an <hi>ENGAGEMENT</hi> to be true to himſelfe, would argue, he were judged to be void of a naturnll affection to himſelf, which in reaſon no man in his right underſtanding can be ſuppoſed to be, &amp; though the people were compelled to take the Oath of allegiance to be true to the KING; yet that Oath was never com<g ref="char:EOLhyphen"/>pelled upon him to take to be true to himſelf.</p>
+            <p n="2">2. The <hi>Engagement-makers</hi> own a higher power then themſelves, for their own words in the very beginning of the foreſaid <hi>Declaration</hi> of the 17. of <hi>March,</hi> 1648. are thus, the <hi>Parliament</hi> of <hi>England</hi> elected by the Peo<g ref="char:EOLhyphen"/>ple whom they repreſent, and by them truſted and autho<g ref="char:EOLhyphen"/>rized for the common good, and in the ſame <hi>Declaration,</hi> pag. 27. they have theſe words, <hi>viz.</hi> the managing of the affaires, and ordering the Government of this <hi>Common-wealth,</hi> and matters in order thereunto, with which they are intruſted and authorized by the conſent of all the People thereof, whoſe <hi>Repreſentatives</hi> by election they are, ſo that here is a clean confeſſion of two things, <hi>viz.</hi>
+            </p>
+            <p>Firſt, That themſelves are not the <hi>Common-wealth</hi> in the <hi>Engagement</hi> named.</p>
+            <p>
+               <pb facs="tcp:165517:5"/>
+               <!-- PDF PAGE 45 -->Secondly, That they are not ſupream, but ſubordinate, being at moſt but Truſtees, who by vertue thereof, can rightfully make no <hi>ENGAGEMENT</hi> for me to take abſolutely, but onely conditionally, to be true to them as far as they are true to their truſt; the main ends of which are before in their own words declared, and therefore I took not the <hi>Engagement</hi> in any ſenſe as ap<g ref="char:EOLhyphen"/>yrehending them abſtracto to be meant by the <hi>Common-wealth</hi> therein named. And ſo much at preſent for the firſt part of it.</p>
+            <p>Laſtly, As for that part without a <hi>King</hi> or Houſe of <hi>Lords,</hi> for my part I ſay Government it ſelf is from God, or the prime Lawes of nature, without which by reaſon of mans corruption by the fall, he cannot live as a ratio<g ref="char:EOLhyphen"/>nall Creature, and the forenamed things are to me the eſſentialls of the eſtabliſhed Government of <hi>England,</hi> and were ſo reputed before the Conqueſt; but as for the for<g ref="char:EOLhyphen"/>mes of Government, I for my part look upon none <hi>jure divino.</hi> And therefore ſhall to the utmoſt of my power, as by the <hi>Engagement</hi> I am bound, oppoſe as far as in me lies, all manner of perſons by what names or Titles ſoever they be dignified and diſtinguiſhed, that ſhall by their own wills ſeeke to obtrude all or any of thoſe hurt<g ref="char:EOLhyphen"/>full arbitrary Prerogatives, that the late <hi>King</hi> or Houſe of <hi>Lords</hi> aſſumed to them, it being not ſo much Titles as tyran<g ref="char:EOLhyphen"/>nous, or arbitrary actions that make the people miſerable, that Creature being ſaith <hi>John Cooke</hi> in the <hi>Kings</hi> caſe ſtated page 8. that Rules by luſt and not by Law; not of <hi>Gods</hi> making nor approbation, but onely his permiſſion, and in page 22. he further ſaith, Will and Conqueſt makes a little amongſt <hi>Wolves</hi> and <hi>Beares,</hi> but not amongſt men. So with my reſpect tendered to you, I take leave to ſubſcribe my ſelf, yours, as farre as you are truly the <hi>COMMONWEALTHS.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>December,</hi> 1649.</date>
+               </dateline>
+               <signed>JOHN LILBURNE.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
